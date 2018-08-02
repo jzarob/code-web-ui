@@ -1,0 +1,22 @@
+
+!.idea/dictionaries/shared.xml
+!application-local.properties
+!application-test.properties
+# *.iml
+# .idea
+# 84.51° ignores
+# Ignore any user created dictionaries, but include the 'shared' dictionary
+# Mobile Tools for Java (J2ME)
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+*.iws
+*.log
+.idea/dictionaries/*
+.idea/libraries
+.idea/shelf
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.mtj.tmp/
+application-*.properties
+deploy
+hs_err_pid*
+target
